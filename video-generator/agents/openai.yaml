@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Generator"
+  short_description: "Create local narrated videos with Kokoro and FFmpeg"
+  default_prompt: "Use $video-generator to make a short narrated MP4 from this brief using local Kokoro speech and synchronized captions."

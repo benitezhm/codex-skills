@@ -1,0 +1,25 @@
+# Local execution and generated output
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.cache/
+.wix/
+output/
+outputs/
+artifacts/
+*.mp4
+*.webm
+*.wav
+*.mp3
+*.onnx
+*.bin
+*.har
+*.log
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
